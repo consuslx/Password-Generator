@@ -10,7 +10,7 @@ Clone the repository
 Navigate to the project directory  
 `bash cd password-generator`  
 Run the password generator script  
-`python password-generator.py`  
+`python password_generator.py`  
 Follow the prompts to set the desired length  
 ### Features
 - Generates password strings using the secrets module for maximum randomness and security.
